@@ -50,7 +50,7 @@ export default class App extends Component {
       <View style={styles.container}>
         <Header/>
         <MessageList messageList={this.state.messageList}/>
-        <ClientMessage   AddMessage={this.AddMessage} index={this.state.id}/>
+        <ClientMessage   AddMessage={this.AddMessage}/>
       </View>
     );
   }
