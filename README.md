@@ -7,7 +7,7 @@ Then go to directory
 ```bash
 cd Telegram-Chat-Page 
 ```
-Install node modules
+Install dependencies
 ```bash
 npm install
 ```
