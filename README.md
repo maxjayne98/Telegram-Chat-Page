@@ -16,4 +16,4 @@ then enter this command
 ```bash
 react-native run-android
 ```
-Now you can chat with Digikala suport bot !
+Now you can chat with Digikala support bot !
